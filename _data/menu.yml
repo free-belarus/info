@@ -1,0 +1,10 @@
+entries:
+  - title: Информация
+    url: false
+    entries:
+      - title: Как бороться против карателей
+        url: docs/karateli
+  - title: Хроника
+    post_list: true
+    url: false
+    entries: false
