@@ -4,7 +4,7 @@ entries:
     entries:
       - title: Как бороться против карателей
         url: docs/karateli
-      - title: BelarusHelp.org — краткий и хорошо проработанный список всех полезных ссылок и номеров телефонов
+      - title: **BelarusHelp.org** — краткий и хорошо проработанный список всех полезных ссылок и номеров телефонов
         url: docs/belarushelp-org
   - title: Хроника
     post_list: true
