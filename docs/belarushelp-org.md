@@ -48,5 +48,6 @@
 - Имена
 - Belarus Solidarity Foundation — Support Belarusian in strike
 
-И больше. Постоянно обновляется по ссылке: [belarushelp.org](https://belarushelp.org/)
+И больше. Постоянно обновляется по ссылке: [belarushelp.org](https://belarushelp.org/). 
+
 Вся информация собрана из открытых источников. Обратная связь в [Telegram](https://t.me/belarushelporg_bot) и [Instagram](https://www.instagram.com/belarushelp_org/).
