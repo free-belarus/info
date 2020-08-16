@@ -4,6 +4,8 @@ entries:
     entries:
       - title: Как бороться против карателей
         url: docs/karateli
+      - title: BelarusHelp.org
+        url: docs/belarushelp-org
   - title: Хроника
     post_list: true
     url: false
