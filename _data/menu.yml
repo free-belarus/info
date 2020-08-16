@@ -2,10 +2,10 @@ entries:
   - title: Информация
     url: false
     entries:
-      - title: Как бороться против карателей
-        url: docs/karateli
       - title: BelarusHelp.org — краткий и хорошо проработанный список всех полезных ссылок и номеров телефонов
         url: docs/belarushelp-org
+      - title: Как бороться против карателей
+        url: docs/karateli
   - title: Хроника
     post_list: true
     url: false
