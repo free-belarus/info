@@ -4,6 +4,8 @@ entries:
     entries:
       - title: BelarusHelp.org — краткий и хорошо проработанный список всех полезных ссылок и номеров телефонов
         url: docs/belarushelp-org
+      - title: Список организаций, собирающих деньги
+        url: docs/donations
       - title: Как бороться против карателей
         url: docs/karateli
   - title: Хроника
