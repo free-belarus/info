@@ -18,4 +18,6 @@
 
 ---
 
-[Хакатоны](https://miro.com/app/board/o9J_kn9bFek=/) для Беларуси.
+# Другие решения
+
+- [Хакатоны](https://miro.com/app/board/o9J_kn9bFek=/) для Беларуси.
