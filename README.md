@@ -20,4 +20,4 @@
 
 # Другие решения
 
-- [Хакатоны](https://miro.com/app/board/o9J_kn9bFek=/) для Беларуси.
+- [Хакатоны](https://github.com/free-belarus/info/blob/master/docs/hackathons.md) для Беларуси.
