@@ -1,6 +1,6 @@
 # Финансовая помощь
 
-[Отправить заявку на получение помощи](https://docs.google.com/forms/d/e/1FAIpQLSc1S_MetSIdBpBerkcKSTowmBB5MKRvM4nmP-e3fOM6I5HOzg/viewform) от инициативы [BY_help](https://www.facebook.com/BYhelpBY/)
+[Отправить заявку на получение помощи](https://docs.google.com/forms/d/e/1FAIpQLSc1S_MetSIdBpBerkcKSTowmBB5MKRvM4nmP-e3fOM6I5HOzg/viewform) от инициативы [BY help](https://www.facebook.com/BYhelpBY/)
 
 # Кампании по сбору средств и предметов первой необходимости
 
