@@ -2,6 +2,8 @@ entries:
   - title: Информация
     url: false
     entries:
+      - title: Блокировки интернета
+        url: docs/free-internet
       - title: BelarusHelp.org — краткий и хорошо проработанный список всех полезных ссылок и номеров телефонов
         url: docs/belarushelp-org
       - title: Список организаций, собирающих деньги
