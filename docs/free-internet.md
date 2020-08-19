@@ -15,7 +15,7 @@
 
 Зеркала, работающие внутри страны:
 
-- http://135.181.47.40/ — от Telegram-канала [Antilockdown](https://t.me/ANTILOCKDOWN) ([их чат](https://t.me/joinchat/BJbLtRflks7-6AOQPsCHYQ))
+- [135.181.47.40](http://135.181.47.40/) — от Telegram-канала [Antilockdown](https://t.me/ANTILOCKDOWN) ([их чат](https://t.me/joinchat/BJbLtRflks7-6AOQPsCHYQ))
 
 
 ## Рекомендации
