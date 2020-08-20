@@ -19,4 +19,4 @@
 
 # Другие решения
 
-- [Хакатоны](./docs/hackathons.md) для Беларуси.
+- [Хакатоны](./initiatives/hackathons.md) для Беларуси.
