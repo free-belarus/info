@@ -132,7 +132,7 @@
 - [Столбцы](https://t.me/stolbts97pro)
 - [Чечерск](https://t.me/checherskthizni)
 
-## Страна для жизни в соцсетяХ
+## Страна для жизни в соцсетях
 
 - [YouTube](https://www.youtube.com/channel/UCFPC7r3tWWXWzUIROLx46mg)
 - [Фейсбук](https://www.facebook.com/strana888/)
