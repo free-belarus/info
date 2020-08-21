@@ -43,3 +43,101 @@
 
 Критически относитесь к любой информации, очень много вбросов и фейков. Хорошо когда есть минимум 2 источника с разными фото/видео. Различайте факты от додумываний и предположений.
 
+
+# Группы
+
+⚡️ Друзья, мы переживаем период, когда от всех нас требуется небывалая прежде сплоченность! Беларусы уже воочию увидели силу своего единства. Идем дальше!
+
+Мы приглашаем вас присоединиться к чату вашего населенного пункта. Объединяйтесь с людьми рядом с вами, которые так же хотят строить Страну Для Жизни. Вместе — мы сила.
+
+Посмотрите, есть ли в этом списке и ваш город?!
+
+- [Канал Страна для Жизни](https://t.me/strana_official)
+- [Страна для Жизни LIVE](https://t.me/strana888_live)
+- [Чат Страна для жизни](https://t.me/strana_chat)
+- [Карта Забастовок Беларуси](https://belzabastovka.org/)
+- [СПБ для Жизни (Содружество Беларуских Предприятий)](https://t.me/sbpred)
+
+## Беларусы за границей
+
+- [Беларусы в эмиграции](https://t.me/bel_emigracia)
+- [Беларусы в эмиграции 2](https://t.me/strana_imigration_infochannel)
+- [Беларусы в Великобритании](https://t.me/blrgb)
+- [Беларусы в Москве](https://t.me/belarusvmoskve)
+
+## Областные чаты
+
+- [Брест](https://t.me/Brest_strana)
+- [Витебск](https://t.me/Vitebsk_strana)
+- [Гомель](https://t.me/Gomel_strana)
+- [Гродно](https://t.me/Grodno_strana)
+- [Минск](https://t.me/Minsk_strana)
+- [Могилев](https://t.me/Mogilev_strana888)
+
+## По районам Минска 
+
+- [Октябрьский рн](https://t.me/SDZOktMinsk)
+- [Заводской рн](https://t.me/minsk_zavod)
+- [Советский рн](https://t.me/sdg_sov_minsk)
+- [Фрунзенский рн](https://t.me/frunzenskiy)
+- [Первомайский рн](https://t.me/joinchat/Gl7TiUdl7qlsspDlBB0V5w)
+- [Партизанский рн](https://t.me/partizan_sdz)
+- [Ленинский рн](https://t.me/leninskiysdzh)
+- [Центральный рн](https://t.me/Minsk_central)
+- [Московский рн](https://t.me/SDG_mosk_minsk)
+
+### По микрорайонам Минска
+
+- [Малиновка](https://t.me/malinovka_zaperemeni)
+
+### Региональные чаты 
+
+- [Барановичи](https://t.me/Baranovichi_Strana)
+- [Бобруйск](https://t.me/bobrujskstrana)
+- [Борисов](https://t.me/Borisov_strana)
+- [Браслав](https://t.me/Braslavforlife)
+- [Вилейка](https://t.me/vileika3)
+- [Волковыск](https://t.me/volkovyskchat)
+- [Воложин](https://t.me/vologin_strana)
+- [Глубокое](https://t.me/glubokoeforlife)
+- [Горки](https://t.me/Gorkidliajizni)
+- [Городок](https://t.me/Gorodok_strana)
+- [Добруш](https://t.me/dobrushperemen)
+- [Докшицы](https://t.me/dokshitsy)
+- [Жодино](https://t.me/Zhodino_strana)
+- [Жлобин](https://t.me/zhlobin_chat1)
+- [Калинковичи](https://t.me/KalinkovichiDlyaZhizni)
+- [Кобрин](https://t.me/kobrinzizni)
+- [Кричев](https://t.me/Krichev_strana_chat)
+- [Лида](https://t.me/Lida_strana_chat)
+- [Логойск](https://t.me/joinchat/JtQDAEcwU0IL4igCe9ogdw)
+- [Марьина Горка](https://t.me/MarynaGorkachat)
+- [Мозырь](https://t.me/mozyr_for_life)
+- [Молодечно](https://t.me/molodechno_strana)
+- [Мосты](https://t.me/mosty_strana_chat)
+- [Новогрудок](https://t.me/Novogrudok_chat)
+- [Орша](https://t.me/orsha_strana_live) 
+- [Осиповичи](https://t.me/Osipovichi_chat)
+- [Островец](https://t.me/ostrovec_strana_chat)
+- [Пинск](https://t.me/pinskstrana)
+- [Поставы](https://t.me/Postavschchina_SDG)
+- [Полоцк+Новополоцк](https://t.me/HPolotsk_strana)
+- [Речица](https://t.me/rechitsa12stop)
+- [Светлогорск](https://t.me/Svetlogorskchat)
+- [Скидель](https://t.me/skidelj)
+- [Слоним](https://t.me/slonim_strana)
+- [Слуцк](https://t.me/strana_slutsk)
+- [Сморгонь](https://t.me/smorgon_strana_chat)
+- [Солигорск](https://t.me/soligorsk_gorod)
+- [Столбцы](https://t.me/stolbts97pro)
+- [Чечерск](https://t.me/checherskthizni)
+
+## Страна для жизни в соцсетяХ
+
+- [YouTube](https://www.youtube.com/channel/UCFPC7r3tWWXWzUIROLx46mg)
+- [Фейсбук](https://www.facebook.com/strana888/)
+- [Инстаграм](https://www.instagram.com/stranadlyazhizni)
+- [Одноклассники](https://ok.ru/strana888)
+- [ВКонтакте](https://vk.com/strana888)
+
+Источник: [Telegram Страна для жизни](https://t.me/strana_official/2315)
