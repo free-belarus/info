@@ -9,3 +9,4 @@
 - [Поведение с карателями](./karateli.md)
 - [Как нам помогут забастовки](./strikes.md)
 - [Тихое сопротивление](./passive-resistance.md)
+- [Советы для расклейки листовок](./effectiveness_of_leaflets.md)
