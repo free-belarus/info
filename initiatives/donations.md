@@ -9,3 +9,5 @@
 - [Сбор предметов первой необходимости](https://t.me/redcrossby/3) — собирает [Служба Красного Креста](https://redcross.by/)
 - [Медпомощь для пострадавших во время мирных демонстраций](https://imenamag.by/projects/help-for-injured) — собирает [проект Имена](https://imenamag.by/)
 - [Belarus Solidarity Foundation — Support Belarusian in strike](https://www.facebook.com/donate/759400044849707/759406901515688) — собирает [Alexis Kendoo](https://www.facebook.com/alexis.kendoo)
+
+- Стачкамам таварыства было прынята рашэнне аб адкрыцці Фонду салідарнасці з працаўнікамі ААТ «Беларуськалій», якія прымаюць удзел у стачцы. Свае ахвяраванні вы можаце зрабіць пераводам на картку: `5299228402592246 01/22` (прэсавы сакратар Стачкама). [Источник: Telegram BelSat](https://t.me/belsat/14369). Перавесці грошы можна і праз вось гэты сэрвіс: https://perevod.mtbank.by/ — там ня трэба ўводзіць імя і прозвішча.
