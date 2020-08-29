@@ -1,7 +1,7 @@
 - [Хакатоны](./hackathons.md)
 - [Пожертвования](./donations.md)
 - [Сайты](./websites)
-
+- [Написать письма политическим заключённым](./letters-to-prisoners.md)
 
 # Telegram bot
 
