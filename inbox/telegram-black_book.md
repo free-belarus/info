@@ -14,10 +14,10 @@
 Присылайте информацию со **скриншотами**:
 - Отправить информацию: **https://t.me/fuckyouomon**
 
-Гугл форма:
+#### Гугл форма:
 - https://forms.gle/4NAw7vbaF4rMhZSdA
 - https://t.me/terroristybelarusi
 
-
-- Веб: **https://narushitel.org/**
-- Инстаграм: **https://www.instagram.com/karateli_by/**
+#### Веб и соцсети
+- **https://narushitel.org/**
+- **https://www.instagram.com/karateli_by/**
