@@ -1,5 +1,16 @@
 Из-за блокировок интернета первоочерёдными идут Telegram-каналы.
 
+# Важные каналы:
+
+1. [viasna96](https://t.me/viasna96) — правозащитный центр «Вясна» (списки задержанных, помощь, координация)
+2. [by_help](https://t.me/by_help) — координация по сбору средств на помощь потерпевшим
+
+# Важные чаты и боты:
+
+1. [zubr_chat](https://t.me/zubr_chat) — тут собирают фото протоколов с ваших избирательных участков.
+2. [ViasnaSOS](https://t.me/ViasnaSOS) — бот Весны в случае задержаний
+
+
 # Авторские каналы
 
 1. [nexta_tv](https://t.me/nexta_tv) и [nexta_live](https://t.me/nexta_live) — крупнейшие телеграм-каналы в Беларуси. Самый большой охват и доступ к информации на текущий момент. У второго очень много вбросов и желтухи, т.к. информация кидается максимально быстро, и не фильтруется.
@@ -13,24 +24,14 @@
 
 # Независимые СМИ в Беларуси: 
 
-- [belsat](https://t.me/belsat)
+- [belsat](https://t.me/belsat) — пишут на мове
+- [nashaniva](https://t.me/nashaniva) — пишут на мове
 - [onlinerby](https://t.me/onlinerby) 
 - [tutby_official](https://t.me/tutby_official) 
-- [nashaniva ](https://t.me/nashaniva)
 - [kyky_org ](https://t.me/kyky_org)
 - [radiosvaboda](https://t.me/radiosvaboda) 
 - [naviny_by](https://t.me/naviny_by) 
 - [euroradio](https://t.me/euroradio) 
-
-# Важные каналы:
-
-1. [viasna96](https://t.me/viasna96) — правозащитный центр «Вясна» (списки задержанных, помощь, координация)
-2. [by_help](https://t.me/by_help) — координация по сбору средств на помощь потерпевшим
-
-# Важные чаты и боты:
-
-1. [zubr_chat](https://t.me/zubr_chat) — тут собирают фото протоколов с ваших избирательных участков.
-2. [ViasnaSOS](https://t.me/ViasnaSOS) — бот Весны в случае задержаний
 
 
 # Аналитика
@@ -44,9 +45,36 @@
 Критически относитесь к любой информации, очень много вбросов и фейков. Хорошо когда есть минимум 2 источника с разными фото/видео. Различайте факты от додумываний и предположений.
 
 
-# Группы
+# Не сортированный список
 
-⚡️ Друзья, мы переживаем период, когда от всех нас требуется небывалая прежде сплоченность! Беларусы уже воочию увидели силу своего единства. Идем дальше!
+- https://t.me/sadmika — Грустный Коленька
+- https://t.me/BelaNewsBN
+- https://t.me/euroradio
+- https://t.me/belteanews — Чай з малинавым варэннем
+- https://t.me/motolkohelp — канал активиста и фотографа Антона Мотолько
+- @minsk_new — чат Антона Мотолько
+- https://t.me/meduzalive — российское издание, бывшая Лента.ру
+- https://t.me/mediazona_by — Медиазона Беларусь
+- https://t.me/UsyLukashenko — 
+- https://t.me/mbkhmedia — МБХ Медиа, канал от Михаила Ходорковского
+
+
+# Боты и люди, чтобы прислать новость
+
+- [MKBelbot]() для https://t.me/BelaNewsBN и https://t.me/UsyLukashenko и https://t.me/mkbelarus
+- [euroradio_minsk]() для https://t.me/euroradio
+- [belteanewsbot]() для https://t.me/belteanews
+- [motolkohelp_bot] для https://t.me/motolkohelp
+- [@newsonliner_bot] для https://t.me/onlinerby
+- [@BelsatBot] для https://t.me/belsat
+- [@lieson]() (человек) для https://t.me/mediazona_by
+- [@NashaNivaBot] для https://t.me/nashaniva
+- [@mbkmediafeedbackbot] для https://t.me/mbkhmedia
+- [@nextamail_bot] для https://t.me/nexta_live, @nexta_tv, @luxta_tv
+- [@tutby_news_bot] для https://t.me/vybory_smotri и https://t.me/tutby_official
+
+
+# Группы
 
 Мы приглашаем вас присоединиться к чату вашего населенного пункта. Объединяйтесь с людьми рядом с вами, которые так же хотят строить Страну Для Жизни. Вместе — мы сила.
 
