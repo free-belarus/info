@@ -26,12 +26,18 @@
 
 - [belsat](https://t.me/belsat) — пишут на мове
 - [nashaniva](https://t.me/nashaniva) — пишут на мове
+- [radiosvaboda](https://t.me/radiosvaboda) — пишут на мове
+- [euroradio](https://t.me/euroradio) — пишут на мове
 - [onlinerby](https://t.me/onlinerby) 
 - [tutby_official](https://t.me/tutby_official) 
-- [kyky_org ](https://t.me/kyky_org)
-- [radiosvaboda](https://t.me/radiosvaboda) 
+- [kyky_org](https://t.me/kyky_org)
 - [naviny_by](https://t.me/naviny_by) 
-- [euroradio](https://t.me/euroradio) 
+
+# Независимые СМИ в России:
+
+- [mbkhmedia](https://t.me/mbkhmedia) — МБХ Медиа, канал от Михаила Ходорковского
+- [meduzalive](https://t.me/meduzalive) — российское издание, бывшая Лента.ру
+- [mediazona_by](https://t.me/mediazona_by) — Медиазона Беларусь, издание основанное членами группы Pussy Riot
 
 
 # Аналитика
@@ -47,38 +53,36 @@
 
 # Не сортированный список
 
-- https://t.me/sadmika — Грустный Коленька
-- https://t.me/BelaNewsBN
-- https://t.me/euroradio
-- https://t.me/belteanews — Чай з малинавым варэннем
-- https://t.me/motolkohelp — канал активиста и фотографа Антона Мотолько
-- @minsk_new — чат Антона Мотолько
-- https://t.me/meduzalive — российское издание, бывшая Лента.ру
-- https://t.me/mediazona_by — Медиазона Беларусь
-- https://t.me/UsyLukashenko — 
-- https://t.me/mbkhmedia — МБХ Медиа, канал от Михаила Ходорковского
+- [BelaNewsBN](https://t.me/BelaNewsBN)
+- [motolkohelp](https://t.me/motolkohelp) — канал активиста и фотографа Антона Мотолько
+- [minsk_new](https://t.me/minsk_new) — чат Антона Мотолько
+
+# Шуточные каналы
+
+- [luxta_tv](https://t.me/luxta_tv)
+- [sadmika](https://t.me/sadmika) — Грустный Коленька, пародийный аккаунт, якобы от кронпринца Николая
+- [belteanews](https://t.me/belteanews) — Чай з малинавым варэннем
+- [UsyLukashenko](https://t.me/UsyLukashenko) — 
 
 
 # Боты и люди, чтобы прислать новость
 
-- [MKBelbot]() для https://t.me/BelaNewsBN и https://t.me/UsyLukashenko и https://t.me/mkbelarus
-- [euroradio_minsk]() для https://t.me/euroradio
-- [belteanewsbot]() для https://t.me/belteanews
-- [motolkohelp_bot] для https://t.me/motolkohelp
-- [@newsonliner_bot] для https://t.me/onlinerby
-- [@BelsatBot] для https://t.me/belsat
-- [@lieson]() (человек) для https://t.me/mediazona_by
-- [@NashaNivaBot] для https://t.me/nashaniva
-- [@mbkmediafeedbackbot] для https://t.me/mbkhmedia
-- [@nextamail_bot] для https://t.me/nexta_live, @nexta_tv, @luxta_tv
-- [@tutby_news_bot] для https://t.me/vybory_smotri и https://t.me/tutby_official
+- [MKBelbot](https://t.me/MKBelbot) для [BelaNewsBN](https://t.me/BelaNewsBN) и [UsyLukashenko](https://t.me/UsyLukashenko) и [mkbelarus](https://t.me/mkbelarus)
+- [euroradio_minsk](https://t.me/) для [euroradio](https://t.me/euroradio)
+- [belteanewsbot](https://t.me/) для [belteanews](https://t.me/belteanews)
+- [motolkohelp_bot](https://t.me/) для [motolkohelp](https://t.me/motolkohelp)
+- [newsonliner_bot](https://t.me/) для [onlinerby](https://t.me/onlinerby)
+- [BelsatBot](https://t.me/) для [belsat](https://t.me/belsat)
+- [lieson](https://t.me/) (человек) для [mediazona_by](https://t.me/mediazona_by)
+- [NashaNivaBot](https://t.me/) для [nashaniva](https://t.me/nashaniva)
+- [mbkmediafeedbackbot](https://t.me/) для [mbkhmedia](https://t.me/mbkhmedia)
+- [nextamail_bot](https://t.me/) для [nexta_live](https://t.me/nexta_live), [nexta_tv](https://t.me/nexta_tv), [luxta_tv](https://t.me/luxta_tv)
+- [tutby_news_bot](https://t.me/tutby_news_bot) для [vybory_smotri ](https://t.me/vybory_smotri) и [tutby_official](https://t.me/tutby_official)
 
 
 # Группы
 
 Мы приглашаем вас присоединиться к чату вашего населенного пункта. Объединяйтесь с людьми рядом с вами, которые так же хотят строить Страну Для Жизни. Вместе — мы сила.
-
-Посмотрите, есть ли в этом списке и ваш город?!
 
 - [Канал Страна для Жизни](https://t.me/strana_official)
 - [Страна для Жизни LIVE](https://t.me/strana888_live)
@@ -86,12 +90,14 @@
 - [Карта Забастовок Беларуси](https://belzabastovka.org/)
 - [СПБ для Жизни (Содружество Беларуских Предприятий)](https://t.me/sbpred)
 
+
 ## Беларусы за границей
 
 - [Беларусы в эмиграции](https://t.me/bel_emigracia)
 - [Беларусы в эмиграции 2](https://t.me/strana_imigration_infochannel)
 - [Беларусы в Великобритании](https://t.me/blrgb)
 - [Беларусы в Москве](https://t.me/belarusvmoskve)
+
 
 ## Областные чаты
 
@@ -101,6 +107,7 @@
 - [Гродно](https://t.me/Grodno_strana)
 - [Минск](https://t.me/Minsk_strana)
 - [Могилев](https://t.me/Mogilev_strana888)
+
 
 ## По районам Минска 
 
@@ -168,4 +175,8 @@
 - [Одноклассники](https://ok.ru/strana888)
 - [ВКонтакте](https://vk.com/strana888)
 
-Источник: [Telegram Страна для жизни](https://t.me/strana_official/2315)
+---
+
+Источники: 
+
+- [Telegram Страна для жизни](https://t.me/strana_official/2315)
