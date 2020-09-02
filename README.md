@@ -12,7 +12,8 @@
 - [статьи](./articles)
 - [разбор фейков](./fakes)
 - [хронология](./timeline)
-- [аналитика](./analytics)
+- [аналитика](./articles/analytics)
+- [мнения](./articles/opinions)
 
 Не знаете куда добавить новое — отправляйте в [inbox](./inbox).
 
