@@ -74,3 +74,10 @@
 | Как помочь? | Переводом на карту, реквизиты в [Telegram канале Стачкома](https://t.me/stachkom/106) |
 | Нужна помощь? | Свяжитесь со Стачкомом Беларуськалий (например, c помощью Telegram бота @stachkom_mail_bot)
 | Подробности? | |
+| | |
+| **[MediaSOL](https://sites.google.com/belarus97.pro/media)** | |
+| Кто собирает? | [Aliaksandr Charniakovich](https://www.facebook.com/a.zahorski) and [Alexey Leonchik](https://www.facebook.com/lavoncyk) |
+| Для кого? | Для журналистов и других сотрудников медиа, которые подвергаются давлению за свою профессиональную деятельность |
+| Как помочь? | Денежным переводом через [gofundme.com](https://www.gofundme.com/f/mediasol) или [PayPal](https://www.paypal.com/pools/c/8sonQvgcqM) |
+| Нужна помощь? | Заполните онлайн запрос (ссылка на [сайте фонда](https://sites.google.com/belarus97.pro/media)) |
+| Подробности? | |
