@@ -28,16 +28,16 @@
 
 ## Подтверждения и свидетельства
 
-1. [Dev.by: Об угрозах отключения интернета во время выборов и о том, что блокировки случались и раньше](https://dev.by/news/internet-shutdown)
+1. [Dev.by: Об угрозах отключения интернета во время выборов и о том, что блокировки случались и раньше.](https://dev.by/news/internet-shutdown) [[архив](https://web.archive.org/web/20201018064733/https://dev.by/news/internet-shutdown)]
 2. [Forbes: Устройство интернета в Беларуси, блокировки в день выборов, мнения специалистов](https://www.forbes.ru/tehnologii/406783-cifrovoy-zheleznyy-zanaves-pochemu-v-belorussii-otklyuchilsya-internet)
 3. [Bloomberg: компания из США поставила в Беларусь технику, которая фильтрует 40% интернет-трафика](https://42.tut.by/700255)
 4. [Роскомсобода: Белорусские чиновники отключали интернет с помощью технологии американской компании](https://roskomsvoboda.org/63160/)
 5. [Tut.by: «Нарушение прав человека». Американская компания Sandvine отменяет сделку с Беларусью](https://42.tutby.net/700610)
 ## Ложь правительства и фейки от него 
 
-* [Лукашенко: интернет в Беларуси отключают из-за границы. «Белтелеком» сообщает о кибератаках:](https://42.tut.by/696123)
+* [Лукашенко: интернет в Беларуси отключают из-за границы. «Белтелеком» сообщает о кибератаках](https://42.tut.by/696123) [[архив](https://web.archive.org/web/20200812212621/https://42.tut.by/696123)]: 
 
 > Лукашенко: «Кому-то неймется, призывают выходить на улицы. Даже из-за границы отключают интернет, чтобы вызвать недовольство у населения. Сейчас наши  специалисты разбираются, откуда идет эта блокировка. Поэтому, если  интернет плохо работает, это не наша инициатива, это из-за границы. На Беларусь пытаются целенаправленно давить с разных сторон, "гибридно действуют по всем направлениям"» 
-> Источник: [Государственное агентство «БЕЛТА»](https://www.belta.by/president/view/lukashenko-internet-v-belarusi-otkljuchajut-iz-za-granitsy-eto-ne-initsiativa-vlasti-402299-2020/) 
+> Источник: [Государственное агентство «БЕЛТА»](https://www.belta.by/president/view/lukashenko-internet-v-belarusi-otkljuchajut-iz-za-granitsy-eto-ne-initsiativa-vlasti-402299-2020/) [[архив](https://web.archive.org/web/20201002120127/https://www.belta.by/president/view/lukashenko-internet-v-belarusi-otkljuchajut-iz-za-granitsy-eto-ne-initsiativa-vlasti-402299-2020)]
 
-* [Национальный центр обмена трафиком отмечает рост вредоносного трафика, поступающего из-за пределов Республики Беларусь](https://ncot.by/ru/news/news/o-rabote-seti-internet/)
+* [Национальный центр обмена трафиком отмечает рост вредоносного трафика, поступающего из-за пределов Республики Беларусь.](https://ncot.by/ru/news/news/o-rabote-seti-internet/) [[архив](https://web.archive.org/web/20201018054959/https://ncot.by/ru/news/news/o-rabote-seti-internet/)]
