@@ -2,6 +2,7 @@
 
 - [Telegram-каналы](./telegram.md)
 - [Сайты](./websites.md)
+- [Документальное кино](./movies.md)
 - [Подкасты](./podcasts.md)
 - [YouTube](./youtube.md)
 
