@@ -4,14 +4,11 @@
 - [основные тезисы](./theses)
 - [статьи](./articles)
 - [разбор фейков](./fakes)
-- [хронология](./timeline)
 - [аналитика](./articles/analytics)
 - [мнения](./articles/opinions)
 
 ## Полезное
 
-- [советы](./advices)
-- [уроки](./guides)
 - [документы](./documents)
 - [инициативы](./initiatives)
 
