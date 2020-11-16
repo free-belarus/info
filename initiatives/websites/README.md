@@ -1,3 +1,0 @@
-# Сайты
-
-- https://belarushelp.org/
