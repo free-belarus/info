@@ -2,8 +2,8 @@
 
 - [статьи](./articles)
 - [разбор фейков](./fakes)
-- [аналитика](./articles/analytics)
-- [мнения](./articles/opinions)
+- [аналитика](./analytics)
+- [мнения](./opinions)
 
 Не знаете куда добавить новое — отправляйте в [inbox](./inbox).
 
