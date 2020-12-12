@@ -32,8 +32,6 @@
 
 [**Полный список инициатив**](https://free-belarus.info/initiatives).
 
----
-
 # [Присоединяйтесь](https://free-belarus.info/contribute) 
 
 Вместе — победим!
