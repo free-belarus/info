@@ -34,4 +34,6 @@
 
 ---
 
-[**Присоединяйтесь**](https://free-belarus.info/contribute), вместе — победим.
+# [Присоединяйтесь](https://free-belarus.info/contribute) 
+
+Вместе — победим!
